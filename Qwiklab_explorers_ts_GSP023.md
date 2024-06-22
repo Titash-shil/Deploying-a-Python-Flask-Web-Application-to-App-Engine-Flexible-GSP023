@@ -94,7 +94,7 @@ sleep 30
 timeout 1 gcloud app versions list 
 python main.py  
 ```
-* Download Image from [here](https://raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Deploying%20a%20Python%20Flask%20Web%20Application%20to%20App%20Engine%20Flexible/Sundar.jpg)
+* Download Image from [here](https://github.com/Titash-shil/Deploying-a-Python-Flask-Web-Application-to-App-Engine-Flexible-GSP023/blob/main/Qwiklab_Explorers_TS_GSP023_Sundar.jpg)
 
 # Congratulations ..!! You completed the lab shortly..😃💯
 
